@@ -1,8 +1,8 @@
 body{
- background-color:hsl(218, 28%, 13%);
+ background-color:dark blue hsl(218, 28%, 13%);
 }
 div{
-border:2px hsl(219, 30%, 18%);
+background-color:dark blue 2px hsl(219, 30%, 18%);
 }
 #underline{
 text-decoration:underline;
